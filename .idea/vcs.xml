@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Django-Portfolio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java-Learnings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Student-Management-System" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/training" vcs="Git" />
   </component>
 </project>
